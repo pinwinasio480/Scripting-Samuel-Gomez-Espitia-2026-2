@@ -1,0 +1,8 @@
+## 5. ¿Cuál es la diferencia entre la longitud de un array y la de una cadena?
+
+R/  Por un lado, la longitud de un array toma en cuenta el número de elementos,
+mientras que por otra parte, la longitud de una cadena toma en cuenta los caracteres.
+
+## 7. Escriba 10 palabras reservadas
+
+R/ true, false, while, double, else, for, foreach, if, private, public
